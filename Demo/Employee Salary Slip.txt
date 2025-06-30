@@ -1,0 +1,10 @@
+
+		--------------------------------------Employee Salary Slip----------------------------------------
+		ID                               :3
+		Name                             :hrishi
+		Basic Salary                     :50000.000000
+		Daily Allowance(%)               :10.000000
+		House Rent Allowance(%)          :15.000000
+		Tax(%)                           :10.000000
+		Total Salary                     :62500.000000
+		InHand                           :56250.000000
